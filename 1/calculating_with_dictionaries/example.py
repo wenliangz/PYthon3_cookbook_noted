@@ -5,7 +5,7 @@
 
 '''
 Use zip() to invert the the dict into tuples that values come first. When performing comparisons on such tuples,
-the value element is compared first, followed by the key. If the values are the same, then go key.
+the value element is compared first, followed by the key. If the values are the same,
 '''
 
 prices = {
